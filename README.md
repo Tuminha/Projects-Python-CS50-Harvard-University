@@ -25,10 +25,14 @@ The course is divided into 10 weeks, each focusing on different aspects of Pytho
 
 Here are the projects I've completed as part of this course:
 
-1. [Indoor Voice](problem%20set%200/indoor_voice/indoor/) - Week 0
-2. [Playback Speed](problem%20set%200/playback/playback/) - Week 0
-3. [Making Faces](problem%20set%200/making%20faces/faces/) - Week 0
-   
+### Problem Set 0: Functions, Variables
+
+1. [Indoor Voice](problem%20set%200/indoor_voice/indoor/) - Convert input to lowercase
+2. [Playback Speed](problem%20set%200/playback%20speed/playback/) - Simulate slow speech by adding pauses
+3. [Making Faces](problem%20set%200/making%20faces/faces/) - Convert text emoticons to emojis
+4. [Einstein](problem%20set%200/einstein/) - Calculate energy using E = mc²
+5. [Tip Calculator](problem%20set%200/tip_calculator/) - Calculate tip amount based on bill and percentage
+
 (More projects will be added as I progress through the course)
 
 ## 🛠️ How to Use This Repository
