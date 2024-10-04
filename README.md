@@ -33,6 +33,10 @@ Here are the projects I've completed as part of this course:
 4. [Einstein](problem%20set%200/einstein/) - Calculate energy using E = mc²
 5. [Tip Calculator](problem%20set%200/tip_calculator/) - Calculate tip amount based on bill and percentage
 
+### Problem Set 1: Conditionals
+
+1. [Deep Thought](problem%20set%201/deep/) - Check if the user knows the answer to the Great Question of Life, the Universe and Everything
+
 (More projects will be added as I progress through the course)
 
 ## 🛠️ How to Use This Repository
