@@ -37,6 +37,7 @@ Here are the projects I've completed as part of this course:
 
 1. [Deep Thought](problem%20set%201/deep/) - Check if the user knows the answer to the Great Question of Life, the Universe and Everything
 2. [Home Federal Savings Bank](problem%20set%201/home_federal_savings_bank/) - Determine reward amount based on user's greeting
+3. [File Extensions](problem%20set%201/file_extensions/) - Determine the media type of a file based on its extension
 
 (More projects will be added as I progress through the course)
 
