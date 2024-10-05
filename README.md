@@ -39,6 +39,7 @@ Here are the projects I've completed as part of this course:
 2. [Home Federal Savings Bank](problem%20set%201/home_federal_savings_bank/) - Determine reward amount based on user's greeting
 3. [File Extensions](problem%20set%201/file_extensions/) - Determine the media type of a file based on its extension
 4. [Math Interpreter](problem%20set%201/math_interpreter/) - Interpret and calculate simple arithmetic expressions
+5. [Meal Time](problem%20set%201/meal_time/) - Determine the appropriate meal based on the time input
 
 (More projects will be added as I progress through the course)
 
