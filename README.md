@@ -41,6 +41,10 @@ Here are the projects I've completed as part of this course:
 4. [Math Interpreter](problem%20set%201/math_interpreter/) - Interpret and calculate simple arithmetic expressions
 5. [Meal Time](problem%20set%201/meal_time/) - Determine the appropriate meal based on the time input
 
+### Problem Set 2: Loops
+
+1. [camelCase](problem%20set%202/camelCase/) - Convert variable names from camelCase to snake_case
+
 (More projects will be added as I progress through the course)
 
 ## 🛠️ How to Use This Repository
