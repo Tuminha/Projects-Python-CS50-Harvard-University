@@ -45,6 +45,7 @@ Here are the projects I've completed as part of this course:
 
 1. [camelCase](problem%20set%202/camelCase/) - Convert variable names from camelCase to snake_case
 2. [Coke Machine](problem%20set%202/coke_machine/) - Simulate a Coke vending machine
+3. [Just Setting Up My Twttr](problem%20set%202/just_setting_up_my_twttr/) - Remove vowels from input text
 
 (More projects will be added as I progress through the course)
 
