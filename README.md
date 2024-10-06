@@ -47,6 +47,7 @@ Here are the projects I've completed as part of this course:
 2. [Coke Machine](problem%20set%202/coke_machine/) - Simulate a Coke vending machine
 3. [Just Setting Up My Twttr](problem%20set%202/just_setting_up_my_twittr/) - Remove vowels from input text
 4. [Vanity Plates](problem%20set%202/vanity_plates/) - Validate vanity license plates
+5. [Nutrition Facts](problem%20set%202/nutrition_facts/) - Provide calorie information for fruits
 
 (More projects will be added as I progress through the course)
 
