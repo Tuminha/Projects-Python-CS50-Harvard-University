@@ -54,6 +54,7 @@ Here are the projects I've completed as part of this course:
 1. [Fuel Gauge](problem%20set%203/fuel_gauge/) - Convert fuel fractions to percentages with error handling
 2. [Felipe's Taqueria](problem%20set%203/felipes_taqueria/) - Simulate an ordering system for a taqueria
 3. [Grocery List](problem%20set%203/grocery_list/) - Create a sorted grocery list with item counts
+4. [Outdated](problem%20set%203/outdated/) - Convert dates to ISO 8601 format
 
 (More projects will be added as I progress through the course)
 
