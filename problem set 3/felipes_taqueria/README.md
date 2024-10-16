@@ -70,4 +70,3 @@ Thanks to Harvard University and the CS50 team for providing this educational op
 - **Twitter/X:** [@Cisco_research](https://x.com/Cisco_research)
 
 Happy coding and enjoy your virtual tacos! 🌮💻
-
