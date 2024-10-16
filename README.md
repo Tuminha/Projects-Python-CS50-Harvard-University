@@ -49,6 +49,10 @@ Here are the projects I've completed as part of this course:
 4. [Vanity Plates](problem%20set%202/vanity_plates/) - Validate vanity license plates
 5. [Nutrition Facts](problem%20set%202/nutrition_facts/) - Provide calorie information for fruits
 
+### Problem Set 3: Exceptions
+
+1. [Fuel Gauge](problem%20set%203/fuel_gauge/) - Convert fuel fractions to percentages with error handling
+
 (More projects will be added as I progress through the course)
 
 ## 🛠️ How to Use This Repository
