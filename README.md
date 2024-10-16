@@ -52,6 +52,7 @@ Here are the projects I've completed as part of this course:
 ### Problem Set 3: Exceptions
 
 1. [Fuel Gauge](problem%20set%203/fuel_gauge/) - Convert fuel fractions to percentages with error handling
+2. [Felipe's Taqueria](problem%20set%203/felipes_taqueria/) - Simulate an ordering system for a taqueria
 
 (More projects will be added as I progress through the course)
 
