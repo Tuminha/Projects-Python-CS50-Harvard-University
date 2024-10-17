@@ -59,6 +59,7 @@ Here are the projects I've completed as part of this course:
 ### Problem Set 4: Libraries
 
 1. [Emojize](problem%20set%204/emojize/) - Convert text-based emoji codes to actual emojis
+2. [Frank, Ian and Glen's Letters (FIGlet)](problem%20set%204/frank_ian_glen/) - Generate ASCII art text using FIGlet
 
 (More projects will be added as I progress through the course)
 
