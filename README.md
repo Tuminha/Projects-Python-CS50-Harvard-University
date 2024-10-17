@@ -56,6 +56,10 @@ Here are the projects I've completed as part of this course:
 3. [Grocery List](problem%20set%203/grocery_list/) - Create a sorted grocery list with item counts
 4. [Outdated](problem%20set%203/outdated/) - Convert dates to ISO 8601 format
 
+### Problem Set 4: Libraries
+
+1. [Emojize](problem%20set%204/emojize/) - Convert text-based emoji codes to actual emojis
+
 (More projects will be added as I progress through the course)
 
 ## 🛠️ How to Use This Repository
