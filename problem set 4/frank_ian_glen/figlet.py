@@ -9,7 +9,7 @@ Outputs that text in the desired font.
 If the user provides two command-line arguments and the first is not -f or --font or the second is not the name of a font, the program should exit via sys.exit with an error message.
 
 """
-
+# pylint: disable=import-error
 from pyfiglet import Figlet
 import sys
 import random
