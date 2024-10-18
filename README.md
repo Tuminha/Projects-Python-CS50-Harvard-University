@@ -63,6 +63,7 @@ Here are the projects I've completed as part of this course:
 3. [Adieu, Adieu](problem%20set%204/adieu_adieu/) - Bid farewell to a list of names in proper grammar
 4. [Guessing Game](problem%20set%204/guessing_game/) - Create a number guessing game with random number generation
 5. [Little Professor](problem%20set%204/little_professor/) - Simulate the "Little Professor" toy, generating math problems for the user to solve
+6. [Bitcoin Price Index](problem%20set%204/bitcoin_price_index/) - Calculate the cost of Bitcoin based on real-time price data
 
 (More projects will be added as I progress through the course)
 
