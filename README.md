@@ -62,6 +62,7 @@ Here are the projects I've completed as part of this course:
 2. [Frank, Ian and Glen's Letters (FIGlet)](problem%20set%204/frank_ian_glen/) - Generate ASCII art text using FIGlet
 3. [Adieu, Adieu](problem%20set%204/adieu_adieu/) - Bid farewell to a list of names in proper grammar
 4. [Guessing Game](problem%20set%204/guessing_game/) - Create a number guessing game with random number generation
+5. [Little Professor](problem%20set%204/little_professor/) - Simulate the "Little Professor" toy, generating math problems for the user to solve
 
 (More projects will be added as I progress through the course)
 
