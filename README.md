@@ -69,6 +69,7 @@ Here are the projects I've completed as part of this course:
 
 1. [Testing my twttr](problem%20set%205/testing_my_twttr/) - Test a function that removes vowels from text using pytest
 2. [Back to the Bank](problem%20set%205/back_to_the_bank/) - Test a function that evaluates bank greetings using pytest
+3. [Re-requesting a Vanity Plate](problem%20set%205/re_requesting_a_vanity_plate/) - Test a function that validates vanity plate numbers using pytest
 
 (More projects will be added as I progress through the course)
 
