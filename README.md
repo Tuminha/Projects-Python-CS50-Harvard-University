@@ -65,6 +65,11 @@ Here are the projects I've completed as part of this course:
 5. [Little Professor](problem%20set%204/little_professor/) - Simulate the "Little Professor" toy, generating math problems for the user to solve
 6. [Bitcoin Price Index](problem%20set%204/bitcoin_price_index/) - Calculate the cost of Bitcoin based on real-time price data
 
+### Problem Set 5: Unit Tests
+
+1. [Testing my twttr](problem%20set%205/testing_my_twttr/) - Test a function that removes vowels from text using pytest
+2. [Back to the Bank](problem%20set%205/back_to_the_bank/) - Test a function that evaluates bank greetings using pytest
+
 (More projects will be added as I progress through the course)
 
 ## 🛠️ How to Use This Repository
