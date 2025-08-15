@@ -1,1 +1,7 @@
-venv_for_cs50.txt
+.DS_Store
+__pycache__/
+*.pyc
+cs50_venv/
+.venv/
+.env
+.ipynb_checkpoints/
