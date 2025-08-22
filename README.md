@@ -88,6 +88,7 @@ Here are the projects I've completed as part of this course:
 ### Problem Set 8: Object-Oriented Programming
 
 1. [Seasons of Love](problem%20set%208/seasons_of_love/) - Calculate age in minutes and display it in English words, inspired by the song from Rent
+2. [Cookie Jar](problem%20set%208/cookie_jar/) - Implement a Jar class to manage cookies with capacity validation and visual emoji representation
 
 (More projects will be added as I progress through the course)
 
